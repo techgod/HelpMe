@@ -1,3 +1,7 @@
-Our submission for the IET's HACK-N-CODE, 2018.
-Team #16, Yash Pradhan & Aakash Raghunathan.
-Link to our video demo : https://drive.google.com/open?id=1N0WHiSoim0bZ_vof_QT5qqePP4WuYyRL
+### Help Me!
+##### A community driven emergency response system (Prototype)
+Help Me is an android app where those in an emergency can request assistance from people in their vicinity (based on their location). People can accept this request for help and navigate to the spot of the emergency. 
+
+Help can be requested with in literally one click, and once someone accepts, the two people can communincate directly through voice or chat in the app. Hopefully this way help can reach the spot even before other emergency services.
+
+Check out the [Demo Video!](https://youtu.be/jk9BPl5icxc)
